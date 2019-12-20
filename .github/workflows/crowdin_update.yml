@@ -1,4 +1,4 @@
-ame: prmerge-upload-crowdin
+name: prmerge-upload-crowdin
 on:
   pull_request:
     types: [closed] 
